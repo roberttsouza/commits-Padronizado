@@ -2,10 +2,6 @@
 <img src="https://media.giphy.com/media/W85Znx8E1E6yaz5H2C/giphy.gif" width="80"><br>commits Padronizado
 </h1>
 
-<h1 align="center">
-<img src=""  width="300px">
-</h1>
-
 
 De acordo com a documentação do [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) A especificação de Commits Convencionais é uma convenção simples em cima das mensagens de confirmação. Ele fornece um conjunto fácil de regras para criar um histórico de confirmação explícito; o que torna mais fácil escrever ferramentas automatizadas em cima. Essa convenção se encaixa com o SemVer, descrevendo os recursos, correções e alterações importantes feitas nas mensagens de confirmação.
 
